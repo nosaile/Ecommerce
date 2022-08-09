@@ -1,0 +1,45 @@
+body{
+    background-color: #095A49;
+    font-family: Futura, serif;
+}
+
+.navbar-nav{
+    text-align: left;
+}
+
+nav {
+    background-color: #095A49;
+}
+
+.navbar-brand{
+    color: #70E3A2;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.nav-link{
+    color: #70E3A2;
+}
+
+.billboard{
+    background-color: #108769;
+    font-family: Futura, serif;
+    margin: 2em;
+    color: #70E3A2;
+    height: 350px;
+}
+
+.product-row-1{
+    justify-content: space-evenly;
+    margin-bottom: 2em;
+}
+
+.product-row-2{
+    justify-content: space-evenly;
+    margin-top: 2em;
+}
+
+.card{
+    background-color: #ffb6c1;
+}
+
