@@ -51,3 +51,8 @@ footer{
     height: 150px;
     opacity: 50%;
 }
+
+.btn {
+    border: solid black;
+
+}
