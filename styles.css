@@ -56,3 +56,10 @@ footer{
     border: solid black;
 
 }
+
+.crew {
+    list-style: none;
+    background-color: #108769;
+    color: #70E3A2;
+    margin: 2em;
+}
