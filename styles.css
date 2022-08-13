@@ -7,12 +7,20 @@ body{
     font-family: Futura, serif;
 }
 
-.navbar-nav{
-    text-align: left;
-}
+/*.navbar-nav{*/
+/*    text-align: left;*/
+/*}*/
 
 nav {
     background-color: #095A49;
+}
+
+.container-fluid{
+    position: fixed;
+    top: 0;
+    background-color: #095A49;
+    z-index: 101;
+    width: 105%
 }
 
 .navbar-brand{
