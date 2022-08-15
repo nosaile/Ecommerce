@@ -12,6 +12,7 @@ body{
 /*}*/
 
 nav {
+    margin-top: 1.5em;
     background-color: #095A49;
 }
 
@@ -19,7 +20,7 @@ nav {
     position: fixed;
     top: 0;
     background-color: #095A49;
-    z-index: 101;
+    z-index: 1;
     width: 105%
 }
 
@@ -46,6 +47,11 @@ nav {
     margin: 2em;
     color: #70E3A2;
     height: 675px;
+}
+
+.billboard-txt{
+    display: flex;
+    text-align: right;
 }
 
 .product-row-1{
@@ -95,6 +101,8 @@ footer{
     padding-top: 2.5em;
     padding-bottom: 2.5em;
 }
+
+
 
 
 
