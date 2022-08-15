@@ -45,13 +45,20 @@ nav {
     background-color: #108769;
     font-family: Futura, serif;
     margin: 2em;
-    color: #70E3A2;
     height: 675px;
 }
 
 .billboard-txt{
-    display: flex;
-    text-align: right;
+    position: absolute;
+    margin-top: 15em;
+    margin-left: 2em;
+    color: #70E3A2;
+    text-shadow: 2px 2px #095A49;
+}
+
+
+.container-products{
+    padding-top: 2.55em;
 }
 
 .product-row-1{
